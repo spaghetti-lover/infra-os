@@ -2,4 +2,4 @@ This project is a web service built entirely from scratch by combining all my pr
 
 - [go-http](https://github.com/spaghetti-lover/go-http)
 - [multithread-redis](https://github.com/spaghetti-lover/multithread-redis)
-- [sharingan-db](https://github.com/spaghetti-lover/sharingan-db)
+- [go-dbms](https://github.com/spaghetti-lover/go-dbms)
